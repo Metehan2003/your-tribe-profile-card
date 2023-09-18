@@ -32,7 +32,11 @@ h2 {
   top: 150px;
 }
 
-p {
+ul {
+  list-style-type: none;
+}
+
+li {
   font-weight: bold;
 }
 
